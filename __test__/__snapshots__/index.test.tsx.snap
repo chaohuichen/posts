@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render the page with 1`] = `
+<div>
+  <div
+    class="page"
+  >
+    <main
+      class="main"
+    >
+      <div
+        class="MuiBox-root css-1tcjf0o"
+      >
+        <h1
+          class="MuiTypography-root MuiTypography-h1 css-16zwpci-JoyTypography-root"
+        >
+          adMarketplace Post Assessment
+        </h1>
+      </div>
+      <div>
+        Mocked Posts Component
+      </div>
+    </main>
+  </div>
+</div>
+`;
